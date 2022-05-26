@@ -1,5 +1,5 @@
 # hello-goakit
-A goakit based hello service..
+A goakit based hello service...
 
 ## Running the Dockerfile
 ```
